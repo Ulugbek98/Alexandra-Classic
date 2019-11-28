@@ -28,3 +28,9 @@
 [07-Nov-2019 17:54:19 Asia/Tashkent] PHP Notice:  Undefined index: user_name in /home/alexandr/public_html/mail.php on line 7
 [07-Nov-2019 17:54:19 Asia/Tashkent] PHP Notice:  Undefined index: user_phone in /home/alexandr/public_html/mail.php on line 8
 [07-Nov-2019 17:54:19 Asia/Tashkent] PHP Notice:  Undefined index: user_message in /home/alexandr/public_html/mail.php on line 9
+[07-Nov-2019 18:19:24 Asia/Tashkent] PHP Notice:  Undefined index: name in /home/alexandr/public_html/mail.php on line 7
+[07-Nov-2019 18:19:24 Asia/Tashkent] PHP Notice:  Undefined index: email in /home/alexandr/public_html/mail.php on line 8
+[07-Nov-2019 18:19:24 Asia/Tashkent] PHP Notice:  Undefined index: message in /home/alexandr/public_html/mail.php on line 9
+[07-Nov-2019 18:23:01 Asia/Tashkent] PHP Notice:  Undefined index: name in /home/alexandr/public_html/mail.php on line 7
+[07-Nov-2019 18:23:01 Asia/Tashkent] PHP Notice:  Undefined index: email in /home/alexandr/public_html/mail.php on line 8
+[07-Nov-2019 18:23:01 Asia/Tashkent] PHP Notice:  Undefined index: message in /home/alexandr/public_html/mail.php on line 9
